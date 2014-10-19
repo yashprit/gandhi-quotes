@@ -1,0 +1,27 @@
+{
+  "name": "gandhi-quotes",
+  "version": "0.0.1",
+  "description": "this is cli tool for famous quotes",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yashprit/gandhi-quotes.git"
+  },
+  "keywords": [
+    "gandhi",
+    "quotes",
+    "asscii"
+  ],
+  "author": "Yashprit Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashprit/gandhi-quotes/issues"
+  },
+  "homepage": "https://github.com/yashprit/gandhi-quotes"
+}
