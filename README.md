@@ -1,14 +1,38 @@
-gandhi-quotes
-=============
+#  gandhi-quotes [![NPM version][npm-image]][npm-url]
 
-Inspired from other github directory this is cli tool for Gandhi Quotes.
+> show gandhi quotes
 
-##Get Started
-run ./cli.js
 
-###argument
-pass `p` or `picture` to get ascii image of Gandhi
+## Install
 
-##Useage
-`./cli.js` Get Quotes.
-`./cli.js p` Get image along with Quotes.
+```sh
+$ npm install --save gandhi-quotes
+```
+
+
+## Usage
+
+```js
+var gandhi-quotes = require('gandhi-quotes');
+
+gandhi-quotes();
+```
+
+```sh
+$ npm install --global gandhi-quotes
+$ gandhi-quotes --p
+#=> show with ascii image of gandhi
+```
+
+
+##Report Issue
+[issue-url]
+
+
+## License
+
+MIT © [Yashprit](yashprit.github.io)
+
+[issue-url]: https://github.com/yashprit/gandhi-quotes/issues
+[npm-url]: https://npmjs.org/package/gandhi-quotes
+[npm-image]: https://badge.fury.io/js/gandhi-quotes.svg
