@@ -13,9 +13,9 @@ $ npm install --save gandhi-quotes
 ## Usage
 
 ```js
-var gandhi-quotes = require('gandhi-quotes');
+var gandhiQuotes = require('gandhi-quotes');
 
-gandhi-quotes();
+gandhiQuotes();
 ```
 
 ```sh
